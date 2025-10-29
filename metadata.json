@@ -1,0 +1,5 @@
+{
+  "name": "Creative Cuisine Generator",
+  "description": "Generate unique and creative recipes based on a selection of ingredients and dietary preferences. Powered by Gemini, this app helps you discover new culinary ideas for meat-eaters, vegans, vegetarians, and kids.",
+  "requestFramePermissions": []
+}
